@@ -49,8 +49,6 @@ public class Client {
         remoteControl.undoButtonPressed();
         remoteControl.undoButtonPressed();
         remoteControl.undoButtonPressed();
-      
-
 
     }
   
